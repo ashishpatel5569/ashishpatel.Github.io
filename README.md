@@ -19,6 +19,6 @@ Economic Growth of countries can be monitored by using this dataset.
 ## Recommended Reading : Introduction to Statistical Thought
 [by Micheal Lavine](https://www.umass.edu/natural-sciences/about/directory/michael-lavine)
 
-[More about the Book](https://people.math.umass.edu/~lavine/Book/book.pdf)
+[More about the Book - URL](https://people.math.umass.edu/~lavine/Book/book.pdf)
 
 This book covers the basics and reasoning of statistics thinking, Probability and it deep dives around Inference and regression ,all which are fundamental knowledge to have in the field of Data Science. I’m Interested in this book because it is a beginner friendly and covers wide aspects of Statistical concepts in theory which helps anyone who want to understand statistics through the lens of data science and to be capable of understanding data patterns and make predictions.
